@@ -1,5 +1,5 @@
-import ECommerce from "./components/ECommerce";
 import Header from "./components/Header";
+import WeatherApp from "./components/WeatherApp";
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
 
       <hr />
 
-      <ECommerce />
+      <WeatherApp />
     </div>
   );
 }
